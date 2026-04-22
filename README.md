@@ -24,4 +24,4 @@ This app does not use any third-party analytics, advertising, or tracking SDKs.
 
 Contact
 
-If you have any questions, contact: oldstone07@yahoo.com Click "Commit changes" → "Commit directly to main" Now go to Settings (in your repo) → scroll down to "Pages" in the left sidebar Under Source, select "Deploy from a branch" → branch: main → folder: / (root) → click Save Wait about 60 seconds, then your policy will be live at: https://oldstone07.github.io/win-the-week-4-of-7-privacy
+If you have any questions, contact: oldstone07@yahoo.com 
