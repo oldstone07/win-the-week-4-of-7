@@ -1,27 +1,17 @@
-# win-the-week-4-of-7
+# Win the Week
 
-Last updated: April 2026
+A weekly self-honesty scorecard for iOS.
 
-Overview
+This repository hosts the public privacy policy for Win the Week, available at:
 
-Win the Week: 4 of 7 is a personal productivity app that helps you track daily wins and losses throughout the week.
+**[https://oldstone07.github.io/win-the-week-4-of-7/privacy.html](https://oldstone07.github.io/win-the-week-4-of-7/privacy.html)**
 
-Data Collection
+## About the app
 
-Win the Week: 4 of 7 does not collect, transmit, or share any personal data. All data you enter (daily results, notes, reflections, and win criteria) is stored locally on your device using Apple's standard storage APIs.
+Win the Week measures the gap between who you said you'd be and who you actually were that day. It is built for people in the middle of a quiet promise they made to themselves.
 
-Notifications
+The app's source code is not published here.
 
-If you enable reminders, Win the Week: 4 of 7 uses Apple's local notification system. No data is sent to any server. Notifications are scheduled and delivered entirely on your device.
+## Contact
 
-Data Export
-
-The app provides an optional JSON export feature so you can back up your own data. This file is saved to your device or iCloud Drive — it is never sent to us.
-
-Third-Party Services
-
-This app does not use any third-party analytics, advertising, or tracking SDKs.
-
-Contact
-
-If you have any questions, contact: oldstone07@yahoo.com 
+For questions about the app or its privacy practices: [wintheweek.app@gmail.com](mailto:wintheweek.app@gmail.com)
